@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/program.dir/src/MainProject.cpp.o -o program  libFunctions-staticlib.a 

@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.5.1)
+project(project)
+include_directories(inc)
+set(a src/MainProject.cpp)
+set(b src/Functions.cpp)
+add_executable(program ${a})
+add_library(Functions-staticlib STATIC ${b})
+
+target_link_libraries(program PUBLIC Functions-staticlib)
+target_include_directories(program PUBLIC Functions-staticlib)

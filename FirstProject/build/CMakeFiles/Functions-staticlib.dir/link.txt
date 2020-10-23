@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFunctions-staticlib.a CMakeFiles/Functions-staticlib.dir/src/Functions.cpp.o
+/usr/bin/ranlib libFunctions-staticlib.a

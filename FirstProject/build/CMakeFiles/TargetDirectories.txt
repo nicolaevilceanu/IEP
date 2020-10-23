@@ -1,0 +1,4 @@
+/home/nicolae/IEP/FirstProject/build/CMakeFiles/rebuild_cache.dir
+/home/nicolae/IEP/FirstProject/build/CMakeFiles/edit_cache.dir
+/home/nicolae/IEP/FirstProject/build/CMakeFiles/program.dir
+/home/nicolae/IEP/FirstProject/build/CMakeFiles/Functions-staticlib.dir
