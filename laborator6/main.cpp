@@ -78,7 +78,7 @@ class Audi: public Car
 
 void function2(std::auto_ptr<Audi> a) //item14
 {
-	std::mutex mutexPtr
+	std::mutex mutexPtr;
 	mutexPtr.lock();
 	a->franeaza();
 	mutexPtr.unlock();
